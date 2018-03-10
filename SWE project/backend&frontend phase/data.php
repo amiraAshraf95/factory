@@ -44,6 +44,15 @@ class Databasess{
 	}
 	
 	
+	 public function executesql($sql){
+            if($this->conn->query($sql) == TRUE){
+                return $result = mysqli_query($this->conn, $sql);
+            }else{
+                echo "SQL Failed : ".$this->conn->error;
+            }
+        }
+	
+	
 	public function FIRST($FirstName,$table)
 	{ 
 		
