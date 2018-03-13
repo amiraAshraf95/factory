@@ -1,0 +1,243 @@
+
+#SEA
+	{
+	position:fixed;
+	background:white;
+	border: solid;
+        padding: 25px;
+        text-align: center;
+	left: 40%;
+	bottom: 50%;
+	word-spacing:4px;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////  */
+
+#mybar a {
+    position: absolute;
+    right: -120px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 150px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#mybar a:hover {
+    right: 0;
+}
+
+#SignIn {
+    top: 20px;
+    background-color:green;
+}
+
+#SignUp {
+    top: 80px;
+    background-color: blue;
+}
+
+#profile{
+    top: 140px;
+    background-color: red;
+}
+
+#EditProfile {
+    top: 200px;
+    background-color: black;
+}
+
+#Order {
+    top: 260px;
+    background-color: green;
+}
+
+#StoreRoom {
+    top: 320px;
+    background-color: blue;
+}
+
+#resources{
+    top: 380px;
+    background-color: red;
+}
+
+#deliver {
+    top: 440px;
+    background-color: black;
+}
+
+#attendence {
+    top: 500px;
+    background-color: green;
+}
+
+#delete {
+    top: 560px;
+    background-color: blue;
+}
+
+#workerstable {
+    top: 620px;
+    background-color: red;
+}
+
+#PD {
+    top: 680px;
+    background-color: black;
+}
+
+#ClientInformation {
+	top: 740px;
+	background-color : green;
+}
+
+#Product{
+	top: 800px;
+	background-color : blue;
+}
+
+#OrderDetails{
+	top: 860px;
+	background-color : red;
+}
+
+#DeleteOrder{
+	top: 920px;
+	background-color: black;
+}
+
+#ATT{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 10px;
+    text-align: center;
+	left: 3%;
+	bottom: 30%;
+	width: 1200px;
+	word-spacing:4px;
+}
+
+
+#BORR
+	{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 25px;
+    text-align: center;
+	left: 40%;
+	bottom: 30%;
+	word-spacing:4px;
+}
+
+#DELETE
+	{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 10px;
+    text-align: center;
+	left: 40%;
+	top: 28%;
+	word-spacing:4px;
+}
+
+#DEL{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 10px;
+    text-align: center;
+	left: 35%;
+	bottom: 15%;
+	width: 400px;
+	word-spacing:4px;
+}
+
+#PRO
+	{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 10px;
+    text-align: center;
+	left: 35%;
+	bottom: 25%;
+	word-spacing:4px;
+}
+
+#ORD
+	{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 10px;
+    text-align: center;
+	left: 35%;
+	bottom:20%;
+	word-spacing:4px;
+}
+
+#PROD	{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 10px;
+    text-align: center;
+	left: 40%;
+	bottom: 35%;
+	word-spacing:4px;
+}
+
+#RES
+	{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 10px;
+    text-align: center;
+	left: 2%;
+	bottom: 8%;
+	width: 1200px;
+	word-spacing:4px;
+}
+
+#SINF
+	{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 10px;
+    text-align: center;
+	left: 39%;
+	bottom: 30%;
+	word-spacing:4px;
+}
+
+#STROOM
+	{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 10px;
+    text-align: center;
+	left: 2%;
+	bottom: 15%;
+	width: 1200px;
+	word-spacing:4px;
+}
+
+#SIUF
+	{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 10px;
+    text-align: center;
+	left: 32%;
+	bottom: 3.5%;
+	word-spacing:4px;
+}
